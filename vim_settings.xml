@@ -332,6 +332,13 @@
       <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/DBI.java" timestamp="1463125622194">
         <mark key="'" line="224" column="12" />
       </file>
+      <file name="$USER_HOME$/github/qr/src/Main.java" timestamp="1494231907408">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/dao/IUserDao.java" timestamp="1472698039210">
         <mark key="'" line="9" column="21" />
       </file>
@@ -401,8 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" />
       <jump line="43" column="36" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
       <jump line="42" column="0" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
       <jump line="2" column="30" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
@@ -501,6 +506,8 @@
       <jump line="35" column="17" filename="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" />
       <jump line="58" column="16" filename="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" />
       <jump line="50" column="0" filename="$USER_HOME$/.vimrc" />
+      <jump line="2" column="2" filename="$USER_HOME$/github/qr/src/Main.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/qr/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -516,31 +523,31 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJlIiwgbmV3IFN0cmluZ1tdeyJFRUUifSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNy01LTguCiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgKiAgVGhpcyB0aW1lbGluZSBzaG93cyB0aGUgdXNlcidzIG1lc3NhZ2VzIGFzIHdlbGwK</text>
+        <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgKiAgaXQgd2lsbCByZWRpcmVjdCB0byB0aGUgcHVibGljIHRpbWVsaW5lLgo=</text>
+        <text encoding="base64">CQkgKiAgVGhpcyB0aW1lbGluZSBzaG93cyB0aGUgdXNlcidzIG1lc3NhZ2VzIGFzIHdlbGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgKiBTaG93cyBhIHVzZXJzIHRpbWVsaW5lIG9yIGlmIG5vIHVzZXIgaXMgbG9nZ2VkIGluLAo=</text>
+        <text encoding="base64">CQkgKiAgaXQgd2lsbCByZWRpcmVjdCB0byB0aGUgcHVibGljIHRpbWVsaW5lLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkgKiBTaG93cyBhIHVzZXJzIHRpbWVsaW5lIG9yIGlmIG5vIHVzZXIgaXMgbG9nZ2VkIGluLAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkvKgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJhIiwgbmV3IFN0cmluZ1tdeyJBQUEifSk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>EEE</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJkIiwgbmV3IFN0cmluZ1tdeyJEREQifSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
