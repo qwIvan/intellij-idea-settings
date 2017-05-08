@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8dd18fdc-d09c-4463-88e3-014b41ab53d2" name="kr" url="http://kr.initial.gq:3080">
+        <fileTransfer host="kr.initial.gq" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

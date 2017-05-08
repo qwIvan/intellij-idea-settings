@@ -1,0 +1,666 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="M" line="41" column="10" filename="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/Main.java" />
+    </globalmarks>
+    <filemarks>
+      <file name="/tmp/sparkdemo/res/spark/template/freemarker/test.ftl" timestamp="1472724281540">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/qr/build.gradle" timestamp="1494231791581">
+        <mark key="[" line="13" column="62" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/servlets/addFriendsServlet.java" timestamp="1472698050722">
+        <mark key="'" line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/MapSocketPorcessor.java" timestamp="1465789183170">
+        <mark key="'" line="153" column="44" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/client/ClientNoUI.java" timestamp="1465802264023">
+        <mark key="'" line="9" column="11" />
+      </file>
+      <file name="/tmp/demo/src/main/java/com/example/DemoApplication.java" timestamp="1463333968369">
+        <mark key="'" line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/AckListTask.java" timestamp="1465797185685">
+        <mark key="'" line="25" column="14" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/pom.xml" timestamp="1472654805895">
+        <mark key="'" line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/mapper/AdminSqlProvider.java" timestamp="1463235048750">
+        <mark key="'" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/dao/impl/JdbcUtils.java" timestamp="1472697785441">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/Rooms.vue" timestamp="1463162958747">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/tmp/sparkdemo/static/index.html.hbs" timestamp="1472722196935">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/StreamPipe.java" timestamp="1465789192882">
+        <mark key="'" line="25" column="21" />
+      </file>
+      <file name="/tmp/sparkdemo/src/Main.java" timestamp="1472725420550">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/mapper/AdminMapper.java" timestamp="1463235075763">
+        <mark key="'" line="50" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/RegisteredMapper.java" timestamp="1463124198012">
+        <mark key="'" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/message/Message.java" timestamp="1466255200125">
+        <mark key="'" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/WebRoot/WEB-INF/web.xml" timestamp="1472640341589">
+        <mark key="'" line="9" column="41" />
+      </file>
+      <file name="/tmp/sparkdemo/src/mapper/FriendshipMapper.java" timestamp="1472708755324">
+        <mark key="'" line="46" column="25" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/payment/com/config/AlipayConfig.java" timestamp="1463029413537">
+        <mark key="'" line="24" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e5e43ae9-b012-47a6-8a08-910881c1fd2c/console.sql" timestamp="1472710882400">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/.gitignore" timestamp="1464702192060">
+        <mark key="'" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/return_url.jsp" timestamp="1470371412430">
+        <mark key="'" line="90" column="8" />
+      </file>
+      <file name="/tmp/sparkdemo/res/templates/test.ftl" timestamp="1472724248773">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/dao/proxy/UIProxy.java" timestamp="1463144940254">
+        <mark key="'" line="21" column="21" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/payment/com/dao/usb/PayDAO.java" timestamp="1462972029890">
+        <mark key="'" line="15" column="19" />
+      </file>
+      <file name="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" timestamp="1472708602237">
+        <mark key="'" line="134" column="27" />
+      </file>
+      <file name="/tmp/untitled1/pom.xml" timestamp="1463336452150">
+        <mark key="'" line="706" column="8" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" timestamp="1472723874432">
+        <mark key="'" line="289" column="51" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/index.html" timestamp="1470371457741">
+        <mark key="'" line="233" column="0" />
+      </file>
+      <file name="/tmp/sparkdemo/src/domain/Group.java" timestamp="1472710073893">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/resources/index.html" timestamp="1465234392042">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" timestamp="1472714028785">
+        <mark key="'" line="229" column="45" />
+      </file>
+      <file name="/tmp/sparkdemo/src/mapper/FriendshipSqlProvider.java" timestamp="1472708819762">
+        <mark key="'" line="16" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/ReflectionBeanMapper.java" timestamp="1463124814780">
+        <mark key="'" line="31" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/Query.java" timestamp="1463123949962">
+        <mark key="'" line="311" column="28" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/scala_2.10/sbt_0.13/org.scala-android/sbt-android/srcs/sbt-android-1.6.4-sources.jar!/rules.scala" timestamp="1466574964932">
+        <mark key="'" line="81" column="25" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/utils/MessageCheck.java" timestamp="1465804408740">
+        <mark key="'" line="13" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/annotations/Select.java" timestamp="1463239037726">
+        <mark key="'" line="29" column="18" />
+      </file>
+      <file name="/tmp/sparkdemo/res/templates/index.html.ftl" timestamp="1472723636787">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="/a.sql" timestamp="1472711872557">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/alipay-mobile/rsa/alipay.wap.create.direct.pay.by.user-JAVA-UTF-8/src/com/alipay/util/AlipayNotify.java" timestamp="1462885861178">
+        <mark key="'" line="75" column="74" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/server/MapTunnelProcessor.java" timestamp="1465782118501">
+        <mark key="'" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/servlets/LoginServlet.java" timestamp="1472653145216">
+        <mark key="'" line="33" column="50" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.9-sources.jar!/sbt/Keys.scala" timestamp="1466575043332">
+        <mark key="'" line="129" column="100" />
+      </file>
+      <file name="/tmp/sparkdemo/res/public/test" timestamp="1472713163010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/cap/CustomTcpSackOption.java" timestamp="1465790048605">
+        <mark key="'" line="210" column="25" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/Trafficlistener.java" timestamp="1466178238753">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/template/Configuration.java" timestamp="1472723826768">
+        <mark key="'" line="577" column="38" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/ConnInfo.java" timestamp="1465789116274">
+        <mark key="'" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/payment/com/servlet/LoginServlet.java" timestamp="1462962357646">
+        <mark key="'" line="36" column="55" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/client_config.json" timestamp="1465809271122">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="72" />
+        <mark key="." line="0" column="72" />
+        <mark key="^" line="0" column="72" />
+      </file>
+      <file name="/tmp/sparkdemo/src/domain/User.java" timestamp="1472724338085">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" timestamp="1472707881289">
+        <mark key="'" line="8" column="112" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="76" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" timestamp="1472714033320">
+        <mark key="'" line="210" column="50" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/client/LogFrame.java" timestamp="1465790976448">
+        <mark key="'" line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/AbstractTemplateLoader.java" timestamp="1472722471689">
+        <mark key="'" line="59" column="28" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/Main.java" timestamp="1479974114516" />
+      <file name="/tmp/sparkdemo/mybatis-config.xml" timestamp="1472707493717">
+        <mark key="[" line="25" column="72" />
+        <mark key="]" line="25" column="75" />
+        <mark key="." line="25" column="75" />
+        <mark key="^" line="25" column="75" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" timestamp="1472722499420">
+        <mark key="'" line="67" column="28" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" timestamp="1484132870190">
+        <mark key="'" line="58" column="16" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="12" />
+        <mark key="^" line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/cap/CapEnv.java" timestamp="1466232011310">
+        <mark key="'" line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/servlet/RoomServlet.java" timestamp="1472654670463">
+        <mark key="'" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/jdk1.8.0_51/src.zip!/java/io/PrintStream.java" timestamp="1462941448453">
+        <mark key="'" line="803" column="16" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/dao/RoomDAOProxy.java" timestamp="1465239604899">
+        <mark key="'" line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/minitwit/src/main/resources/spark/template/freemarker/timeline.ftl" timestamp="1472723180389">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="32" column="11" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main-settings/srcs/main-settings-0.13.9-sources.jar!/sbt/KeyRanks.scala" timestamp="1466575048316">
+        <mark key="'" line="43" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.3.5.RELEASE/spring-boot-1.3.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1463334346855">
+        <mark key="'" line="392" column="38" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/config/MyBatisConfig.java" timestamp="1465239631216">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="18" column="72" />
+        <mark key="." line="18" column="72" />
+        <mark key="^" line="18" column="72" />
+      </file>
+      <file name="/tmp/sparkdemo/mybatis-generator-config.xml" timestamp="1472708649285">
+        <mark key="'" line="34" column="22" />
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="57" />
+        <mark key="." line="35" column="57" />
+        <mark key="^" line="35" column="57" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/domain/Friends.java" timestamp="1472698030483">
+        <mark key="'" line="9" column="15" />
+      </file>
+      <file name="/tmp/sparkdemo/static/index.html" timestamp="1472722030620">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" timestamp="1472722456441">
+        <mark key="'" line="373" column="31" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/utils/LogOutputStream.java" timestamp="1465797484069">
+        <mark key="'" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/utils/JdbcUtils.java" timestamp="1472697708924">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/RUDPConfig.java" timestamp="1465838205898">
+        <mark key="'" line="4" column="13" />
+      </file>
+      <file name="/tmp/sparkdemo/res/templates/index.html" timestamp="1472723194782">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spark-template-freemarker-2.3-sources.jar!/spark/template/freemarker/FreeMarkerEngine.java" timestamp="1472723524002">
+        <mark key="'" line="91" column="45" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/pom.xml" timestamp="1465240556080">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/BaseResultSetMapper.java" timestamp="1463124557928">
+        <mark key="'" line="44" column="34" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/resources/mybatis-config.xml" timestamp="1465239334451">
+        <mark key="[" line="25" column="72" />
+        <mark key="]" line="25" column="80" />
+        <mark key="." line="25" column="80" />
+        <mark key="^" line="25" column="80" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/tweak/ResultSetMapper.java" timestamp="1463123000754">
+        <mark key="'" line="24" column="17" />
+      </file>
+      <file name="/tmp/javaweb/web/WEB-INF/web.xml" timestamp="1472655864136">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/DBI.java" timestamp="1463125622194">
+        <mark key="'" line="224" column="12" />
+      </file>
+      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/dao/IUserDao.java" timestamp="1472698039210">
+        <mark key="'" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/SMTPService.java" timestamp="1470371301656">
+        <mark key="'" line="44" column="8" />
+      </file>
+      <file name="/tmp/sparkdemo/res/index.html" timestamp="1472714162560">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="/tmp/sparkdemo/src/domain/Friendship.java" timestamp="1472711855776">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="/tmp/sparkdemo/res/templates/i.html" timestamp="1472725395310">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/Demo.java" timestamp="1474363485638">
+        <mark key="'" line="19" column="49" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472711735314">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/config/MyBatisConfig.java" timestamp="1465239612992">
+        <mark key="'" line="18" column="68" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spark-template-handlebars-2.3-sources.jar!/spark/template/handlebars/HandlebarsTemplateEngine.java" timestamp="1472722335585">
+        <mark key="'" line="74" column="45" />
+      </file>
+      <file name="$USER_HOME$/.vimrc" timestamp="1484132873554">
+        <mark key="'" line="50" column="0" />
+      </file>
+      <file name="/tmp/untitled/web/WEB-INF/web.xml" timestamp="1463335501271">
+        <mark key="'" line="11" column="73" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spark-template-jade-2.3-sources.jar!/spark/template/jade/JadeTemplateEngine.java" timestamp="1472714499894">
+        <mark key="'" line="76" column="53" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mapper/AdminMapper.xml" timestamp="1463234621111">
+        <mark key="'" line="38" column="14" />
+      </file>
+      <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/alipayapi.jsp" timestamp="1472654941652">
+        <mark key="'" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/mapper/UserSqlProvider.java" timestamp="1465241392119">
+        <mark key="'" line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/src/main/res/values/styles.xml" timestamp="1466575058797">
+        <mark key="'" line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/resource/ClassPathResourceHandler.java" timestamp="1472713898810">
+        <mark key="'" line="67" column="39" />
+      </file>
+      <file name="/fragment.java" timestamp="1479974634201">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="0" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" />
+      <jump line="43" column="36" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="42" column="0" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="2" column="30" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="0" column="6" filename="/Dummy.txt" />
+      <jump line="8" column="112" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" />
+      <jump line="106" column="0" filename="/tmp/sparkdemo/src/domain/Friendship.java" />
+      <jump line="44" column="44" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="35" column="18" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="82" column="10" filename="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" />
+      <jump line="34" column="22" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
+      <jump line="134" column="27" filename="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" />
+      <jump line="46" column="25" filename="/tmp/sparkdemo/src/mapper/FriendshipMapper.java" />
+      <jump line="16" column="13" filename="/tmp/sparkdemo/src/mapper/FriendshipSqlProvider.java" />
+      <jump line="127" column="26" filename="/tmp/sparkdemo/src/domain/Friendship.java" />
+      <jump line="34" column="0" filename="/tmp/sparkdemo/src/domain/Friendship.java" />
+      <jump line="16" column="5" filename="/tmp/sparkdemo/src/domain/Group.java" />
+      <jump line="8" column="0" filename="/tmp/sparkdemo/src/domain/Group.java" />
+      <jump line="15" column="5" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="26" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="24" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="16" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="8" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
+      <jump line="155" column="20" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" />
+      <jump line="451" column="12" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
+      <jump line="199" column="32" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
+      <jump line="207" column="45" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
+      <jump line="157" column="16" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" />
+      <jump line="168" column="47" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" />
+      <jump line="67" column="39" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/resource/ClassPathResourceHandler.java" />
+      <jump line="229" column="45" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
+      <jump line="210" column="50" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" />
+      <jump line="15" column="42" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="7" column="20" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="76" column="53" filename="$USER_HOME$/.ideaLibSources/spark-template-jade-2.3-sources.jar!/spark/template/jade/JadeTemplateEngine.java" />
+      <jump line="7" column="4" filename="/tmp/sparkdemo/static/index.html" />
+      <jump line="5" column="0" filename="/tmp/sparkdemo/static/index.html" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/static/index.html" />
+      <jump line="6" column="9" filename="/tmp/sparkdemo/static/index.html" />
+      <jump line="1" column="13" filename="/tmp/sparkdemo/static/index.html" />
+      <jump line="27" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="33" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="3" column="19" filename="/tmp/sparkdemo/static/index.html" />
+      <jump line="1" column="0" filename="/tmp/sparkdemo/static/index.html.hbs" />
+      <jump line="26" column="34" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="74" column="45" filename="$USER_HOME$/.ideaLibSources/spark-template-handlebars-2.3-sources.jar!/spark/template/handlebars/HandlebarsTemplateEngine.java" />
+      <jump line="359" column="13" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
+      <jump line="424" column="18" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
+      <jump line="373" column="31" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
+      <jump line="66" column="27" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" />
+      <jump line="59" column="28" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/AbstractTemplateLoader.java" />
+      <jump line="67" column="28" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" />
+      <jump line="81" column="25" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" />
+      <jump line="18" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="20" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="7" column="12" filename="/tmp/sparkdemo/res/templates/index.html" />
+      <jump line="3" column="4" filename="/tmp/sparkdemo/res/templates/index.html" />
+      <jump line="2" column="0" filename="/tmp/sparkdemo/res/templates/index.html" />
+      <jump line="25" column="32" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="2" column="13" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="1" column="6" filename="/tmp/sparkdemo/res/templates/index.html" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/res/templates/index.html" />
+      <jump line="8" column="7" filename="/tmp/sparkdemo/res/templates/index.html.ftl" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/res/templates/index.html.ftl" />
+      <jump line="38" column="25" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="47" column="41" filename="$USER_HOME$/.ideaLibSources/spark-template-freemarker-2.3-sources.jar!/spark/template/freemarker/FreeMarkerEngine.java" />
+      <jump line="91" column="45" filename="$USER_HOME$/.ideaLibSources/spark-template-freemarker-2.3-sources.jar!/spark/template/freemarker/FreeMarkerEngine.java" />
+      <jump line="41" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="21" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="23" column="0" filename="/tmp/sparkdemo/src/Main.java" />
+      <jump line="577" column="38" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/template/Configuration.java" />
+      <jump line="234" column="31" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="241" column="4" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="287" column="0" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="163" column="0" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="239" column="63" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="244" column="33" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="246" column="41" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="435" column="64" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="359" column="46" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="345" column="54" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="334" column="50" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="289" column="51" filename="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/cache/TemplateCache.java" />
+      <jump line="36" column="18" filename="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" />
+      <jump line="2" column="16" filename="/tmp/sparkdemo/res/templates/test.ftl" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/res/templates/test.ftl" />
+      <jump line="23" column="4" filename="/tmp/sparkdemo/src/domain/User.java" />
+      <jump line="7" column="0" filename="/tmp/sparkdemo/res/templates/i.html" />
+      <jump line="0" column="0" filename="/tmp/sparkdemo/res/templates/i.html" />
+      <jump line="11" column="38" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/Demo.java" />
+      <jump line="374" column="14" filename="$USER_HOME$/jdk1.8.0_51/src.zip!/java/util/stream/Stream.java" />
+      <jump line="19" column="49" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/Demo.java" />
+      <jump line="39" column="17" filename="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" />
+      <jump line="35" column="17" filename="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" />
+      <jump line="58" column="16" filename="$USER_HOME$/GitHubProjects/minitwit/src/main/java/com/minitwit/config/WebConfig.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/.vimrc" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>EEE</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxuYW1lXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJlIiwgbmV3IFN0cmluZ1tdeyJFRUUifSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkgKiAgVGhpcyB0aW1lbGluZSBzaG93cyB0aGUgdXNlcidzIG1lc3NhZ2VzIGFzIHdlbGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkgKiAgaXQgd2lsbCByZWRpcmVjdCB0byB0aGUgcHVibGljIHRpbWVsaW5lLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkgKiBTaG93cyBhIHVzZXJzIHRpbWVsaW5lIG9yIGlmIG5vIHVzZXIgaXMgbG9nZ2VkIGluLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvKgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJhIiwgbmV3IFN0cmluZ1tdeyJBQUEifSk7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>EEE</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJkIiwgbmV3IFN0cmluZ1tdeyJEREQifSk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-replace />
+      <last-substitute>^\s*\/\/.*\n</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxyb29tXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
+        <entry encoding="base64">XDx1bFw+</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
+        <entry encoding="base64">XDxBZmZpcm1cPg==</entry>
+        <entry encoding="base64">XDxkZFw+</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF9yb29tX2lkXD4=</entry>
+        <entry>\&quot;room\.</entry>
+        <entry>form</entry>
+        <entry encoding="base64">XDzlhatcPg==</entry>
+        <entry>黑</entry>
+        <entry>-1</entry>
+        <entry>^\s*</entry>
+        <entry>^\s*\/\/.*\n</entry>
+        <entry>anno</entry>
+        <entry encoding="base64">XDxSb3V0ZVw+</entry>
+        <entry>iptables</entry>
+        <entry encoding="base64">XDxBTk5PVEFURURNQVBQRVJcPg==</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s//room/g</entry>
+        <entry encoding="base64">JzwsJz5zL1wicm9vbVwuL1wic2VsZWN0ZWRfcm9vbVwuL2c=</entry>
+        <entry>w</entry>
+        <entry>%s/^\s*//.*\n//g</entry>
+        <entry>%s/^\s*//.*//g</entry>
+        <entry>%s/^\s*////g</entry>
+        <entry>%s/^\s*//g</entry>
+        <entry>%s/^\s*///g</entry>
+        <entry>%s/^\s*\/\/.*\n//g</entry>
+        <entry>qw</entry>
+        <entry>Py</entry>
+        <entry>py</entry>
+        <entry>Ycm</entry>
+        <entry>ls</entry>
+        <entry>!ls</entry>
+        <entry>e ~/.vimrc</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

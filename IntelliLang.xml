@@ -1,0 +1,17 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="MySQL" injector-id="java">
+      <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Update.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Update")]]></place>
+    </injection>
+  </component>
+</application>
