@@ -184,6 +184,19 @@
       <file name="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/template/Configuration.java" timestamp="1472723826768">
         <mark key="'" line="577" column="38" />
       </file>
+      <file name="$USER_HOME$/qrtest/build.gradle" timestamp="1497794747608">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/qrtest/src/Main.java" timestamp="1497794744788">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/ConnInfo.java" timestamp="1465789116274">
         <mark key="'" line="6" column="13" />
       </file>
@@ -247,10 +260,6 @@
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/dao/RoomDAOProxy.java" timestamp="1465239604899">
         <mark key="'" line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/minitwit/src/main/resources/spark/template/freemarker/timeline.ftl" timestamp="1472723180389">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-sbt/main-settings/srcs/main-settings-0.13.9-sources.jar!/sbt/KeyRanks.scala" timestamp="1466575048316">
         <mark key="'" line="43" column="0" />
@@ -406,12 +415,14 @@
       <file name="/fragment.java" timestamp="1479974634201">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/qrtest/src/main/java/Main.java" timestamp="1497794988229">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="14" column="74" />
+        <mark key="." line="14" column="74" />
+        <mark key="^" line="14" column="74" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="36" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
-      <jump line="42" column="0" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
-      <jump line="2" column="30" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
-      <jump line="0" column="0" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
       <jump line="0" column="6" filename="/Dummy.txt" />
       <jump line="8" column="112" filename="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mybatis-generator-config.xml" />
       <jump line="106" column="0" filename="/tmp/sparkdemo/src/domain/Friendship.java" />
@@ -508,13 +519,17 @@
       <jump line="50" column="0" filename="$USER_HOME$/.vimrc" />
       <jump line="2" column="2" filename="$USER_HOME$/github/qr/src/Main.java" />
       <jump line="3" column="0" filename="$USER_HOME$/github/qr/src/Main.java" />
+      <jump line="5" column="14" filename="$USER_HOME$/qrtest/src/Main.java" />
+      <jump line="6" column="14" filename="$USER_HOME$/qrtest/src/Main.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/qrtest/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/qrtest/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
       </register>
       <register name="-" type="4">
-        <text>EEE</text>
+        <text>errorCorrectionLevel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
@@ -523,31 +538,31 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJlIiwgbmV3IFN0cmluZ1tdeyJFRUUifSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNy01LTguCiAqLwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBFbmNvZGVyCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgKiAgVGhpcyB0aW1lbGluZSBzaG93cyB0aGUgdXNlcidzIG1lc3NhZ2VzIGFzIHdlbGwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgKiAgaXQgd2lsbCByZWRpcmVjdCB0byB0aGUgcHVibGljIHRpbWVsaW5lLgo=</text>
+        <text encoding="base64">ICAgICAgICBFbmNvZGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgKiBTaG93cyBhIHVzZXJzIHRpbWVsaW5lIG9yIGlmIG5vIHVzZXIgaXMgbG9nZ2VkIGluLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJhIiwgbmV3IFN0cmluZ1tdeyJBQUEifSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNy01LTguCiAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>EEE</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
