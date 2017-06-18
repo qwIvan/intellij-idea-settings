@@ -7,7 +7,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="文泉驿等宽微米黑" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -522,6 +522,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="cfbfad" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="434343" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
