@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/servlets/addFriendsServlet.java" timestamp="1472698050722">
         <mark key="'" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/testjcseg/src/main/java/Test.java" timestamp="1503133080862">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="24" column="1" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/testjcseg/src/main/java/Test.java" timestamp="1503134640536">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/MapSocketPorcessor.java" timestamp="1465789183170">
         <mark key="'" line="153" column="44" />
@@ -96,6 +96,9 @@
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/return_url.jsp" timestamp="1470371412430">
         <mark key="'" line="90" column="8" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Config.java" timestamp="1503134409872">
+        <mark key="'" line="25" column="19" />
       </file>
       <file name="/tmp/sparkdemo/res/templates/test.ftl" timestamp="1472724248773">
         <mark key="'" line="0" column="0" />
@@ -372,6 +375,7 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/recognition/nr/PersonRecognition.java" timestamp="1503134869773" />
       <file name="/tmp/sparkdemo/src/domain/Friendship.java" timestamp="1472711855776">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="24" />
@@ -383,6 +387,11 @@
         <mark key="]" line="2" column="8" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Segment.java" timestamp="1503134474056">
+        <mark key="'" line="574" column="19" />
+        <mark key="[" line="574" column="15" />
+        <mark key="]" line="574" column="27" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/Demo.java" timestamp="1474363485638">
         <mark key="'" line="19" column="49" />
@@ -436,13 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="27" filename="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" />
-      <jump line="46" column="25" filename="/tmp/sparkdemo/src/mapper/FriendshipMapper.java" />
-      <jump line="16" column="13" filename="/tmp/sparkdemo/src/mapper/FriendshipSqlProvider.java" />
-      <jump line="127" column="26" filename="/tmp/sparkdemo/src/domain/Friendship.java" />
-      <jump line="34" column="0" filename="/tmp/sparkdemo/src/domain/Friendship.java" />
-      <jump line="16" column="5" filename="/tmp/sparkdemo/src/domain/Group.java" />
-      <jump line="8" column="0" filename="/tmp/sparkdemo/src/domain/Group.java" />
       <jump line="15" column="5" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="26" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="24" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
@@ -536,6 +538,13 @@
       <jump line="13" column="7" filename="$USER_HOME$/testjcseg/pom.xml" />
       <jump line="20" column="27" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
       <jump line="0" column="0" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
+      <jump line="11" column="8" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
+      <jump line="575" column="16" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Segment.java" />
+      <jump line="8" column="53" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
+      <jump line="574" column="19" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Segment.java" />
+      <jump line="25" column="19" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Config.java" />
+      <jump line="9" column="36" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -548,34 +557,34 @@
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>* 16777215</text>
+        <text>nameRecognize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50LkMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzZW50ZW5jZSA6IHRlc3RDYXNlKSB7CiAgICAgICAgICAgIExpc3Q8VGVybT4gdGVybUxpc3QgPSBzZWdtZW50LnNlZyhzZW50ZW5jZSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXJtTGlzdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5saW9uc291bDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5qY3NlZy1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMS4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihieXRlTWF0cml4LmdldCh4LCB5KSAqIDE2Nzc3MjE1KTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZy5zZXRSR0IoeCwgeSwgYnl0ZU1hdHJpeC5nZXQoeCwgeSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9OwogICAgICAgIFNlZ21lbnQgc2VnbWVudCA9IEhhbkxQLm5ld1NlZ21lbnQoKS5lbmFibGVOYW1lUmVjb2duaXplKHRydWUpOwogICAgICAgIGZvciAoU3RyaW5nIHNlbnRlbmNlIDogdGVzdENhc2UpIHsKICAgICAgICAgICAgTGlzdDxUZXJtPiB0ZXJtTGlzdCA9IHNlZ21lbnQuc2VnKHNlbnRlbmNlKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlcm1MaXN0KTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHU7IGkrKykgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRyaXhUb0ltYWdlV3JpdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuenhpbmcuY2xpZW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxckNvZGUuCg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5saW9uc291bDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5qY3NlZy1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMS4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
