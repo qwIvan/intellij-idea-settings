@@ -184,7 +184,7 @@
       <file name="$USER_HOME$/.ideaLibSources/freemarker-2.3.19-sources.jar!/freemarker/template/Configuration.java" timestamp="1472723826768">
         <mark key="'" line="577" column="38" />
       </file>
-      <file name="$USER_HOME$/qrtest/build.gradle" timestamp="1497795787833">
+      <file name="$USER_HOME$/qrtest/build.gradle" timestamp="1503129880718">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="28" />
@@ -289,6 +289,11 @@
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/testjcseg/pom.xml" timestamp="1503130415651">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" timestamp="1472722456441">
         <mark key="'" line="373" column="31" />
@@ -424,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="18" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
       <jump line="82" column="10" filename="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" />
       <jump line="34" column="22" filename="/tmp/sparkdemo/mybatis-generator-config.xml" />
       <jump line="134" column="27" filename="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" />
@@ -524,6 +528,7 @@
       <jump line="20" column="26" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
       <jump line="7" column="26" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
       <jump line="24" column="118" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
+      <jump line="13" column="7" filename="$USER_HOME$/testjcseg/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -539,31 +544,31 @@
         <text>* 16777215</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihieXRlTWF0cml4LmdldCh4LCB5KSAqIDE2Nzc3MjE1KTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZy5zZXRSR0IoeCwgeSwgYnl0ZU1hdHJpeC5nZXQoeCwgeSkpOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHU7IGkrKykgewogICAgICAgICAgICAKICAgICAgICB9</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRyaXhUb0ltYWdlV3JpdGVyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuenhpbmcuY2xpZW50Lgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxckNvZGUuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF0U2l6ZSA9IGJ5dGVNYXRyaXguZ2V0V2lkdGgoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPm9yZy5saW9uc291bDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5qY3NlZy1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMS4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihieXRlTWF0cml4LmdldCh4LCB5KSAqIDE2Nzc3MjE1KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZy5zZXRSR0IoeCwgeSwgYnl0ZU1hdHJpeC5nZXQoeCwgeSkpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHU7IGkrKykgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNYXRyaXhUb0ltYWdlV3JpdGVyCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuenhpbmcuY2xpZW50Lgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbmNvZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBxckNvZGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
