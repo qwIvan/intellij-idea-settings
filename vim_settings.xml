@@ -424,7 +424,11 @@
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mapper/AdminMapper.xml" timestamp="1463234621111">
         <mark key="'" line="38" column="14" />
       </file>
-      <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/launcher/LoginActivity.smali" timestamp="1510686656030" />
+      <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/launcher/LoginActivity.smali" timestamp="1510691865839">
+        <mark key="'" line="4238" column="4" />
+        <mark key="[" line="495" column="0" />
+        <mark key="]" line="495" column="155" />
+      </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/alipayapi.jsp" timestamp="1472654941652">
         <mark key="'" line="121" column="0" />
       </file>
@@ -454,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="8" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
       <jump line="155" column="20" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" />
@@ -554,6 +557,7 @@
       <jump line="22" column="16" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" />
       <jump line="23" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/bean/Datas.smali" />
       <jump line="0" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/f$1.smali" />
+      <jump line="4238" column="4" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/launcher/LoginActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -563,10 +567,10 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>75</text>
+        <text>2045</text>
       </register>
-      <register name="0" type="4">
-        <text>nameRecognize</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGludm9rZS1kaXJlY3Qge3AwLCBwMSwgcDJ9LCBMY29tL2NvbmNoL2dvZGRlc3MvbGF1bmNoZXIvTG9naW5BY3Rpdml0eTstPmIoTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYmVhbi9Vc2VyQmVhbjtMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9iZWFuL1B1c2hCZWFuOylWCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWdtZW50LkMK</text>
@@ -600,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>75</last-search>
+      <last-search>2045</last-search>
       <last-offset />
-      <last-pattern>75</last-pattern>
+      <last-pattern>2045</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -610,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9yb29tX2lkXD4=</entry>
         <entry>\&quot;room\.</entry>
         <entry>form</entry>
@@ -630,6 +633,7 @@
         <entry>71</entry>
         <entry>1129</entry>
         <entry>75</entry>
+        <entry>2045</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
