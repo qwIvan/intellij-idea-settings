@@ -361,6 +361,9 @@
       <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/dao/IUserDao.java" timestamp="1472698039210">
         <mark key="'" line="9" column="21" />
       </file>
+      <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/bean/Datas.smali" timestamp="1510687533979">
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" timestamp="1510684707448">
         <mark key="'" line="22" column="16" />
       </file>
@@ -397,7 +400,7 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510684446034">
+      <file name="/Dummy.txt" timestamp="1510686600393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/config/MyBatisConfig.java" timestamp="1465239612992">
@@ -418,6 +421,7 @@
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mapper/AdminMapper.xml" timestamp="1463234621111">
         <mark key="'" line="38" column="14" />
       </file>
+      <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/launcher/LoginActivity.smali" timestamp="1510686656030" />
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/alipayapi.jsp" timestamp="1472654941652">
         <mark key="'" line="121" column="0" />
       </file>
@@ -435,7 +439,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497796940080">
+      <file name="/fragment.java" timestamp="1510687350291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/qrtest/src/main/java/Main.java" timestamp="1497797341674">
@@ -447,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="24" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="16" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="8" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
@@ -547,6 +550,7 @@
       <jump line="25" column="19" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Config.java" />
       <jump line="9" column="36" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
       <jump line="22" column="16" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" />
+      <jump line="23" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/bean/Datas.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -556,7 +560,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>59</text>
+        <text>1129</text>
       </register>
       <register name="0" type="4">
         <text>nameRecognize</text>
@@ -593,9 +597,9 @@
       </register>
     </registers>
     <search>
-      <last-search>59</last-search>
+      <last-search>1129</last-search>
       <last-offset />
-      <last-pattern>59</last-pattern>
+      <last-pattern>1129</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -603,10 +607,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
-        <entry encoding="base64">XDx1bFw+</entry>
-        <entry encoding="base64">XDxuZXdcPg==</entry>
-        <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
         <entry encoding="base64">XDxBZmZpcm1cPg==</entry>
         <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9yb29tX2lkXD4=</entry>
@@ -623,6 +623,10 @@
         <entry encoding="base64">XDxBTk5PVEFURURNQVBQRVJcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>59</entry>
+        <entry>1128</entry>
+        <entry>70</entry>
+        <entry>71</entry>
+        <entry>1129</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
