@@ -348,6 +348,9 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
+      <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/f$1.smali" timestamp="1510688852578">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jdbi/jdbi/2.73/jdbi-2.73-sources.jar!/org/skife/jdbi/v2/DBI.java" timestamp="1463125622194">
         <mark key="'" line="224" column="12" />
       </file>
@@ -451,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="16" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="8" column="0" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/Service.java" />
@@ -551,6 +553,7 @@
       <jump line="9" column="36" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
       <jump line="22" column="16" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" />
       <jump line="23" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/bean/Datas.smali" />
+      <jump line="0" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/f$1.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -560,7 +563,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>1129</text>
+        <text>75</text>
       </register>
       <register name="0" type="4">
         <text>nameRecognize</text>
@@ -597,9 +600,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1129</last-search>
+      <last-search>75</last-search>
       <last-offset />
-      <last-pattern>1129</last-pattern>
+      <last-pattern>75</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -607,7 +610,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZmZpcm1cPg==</entry>
         <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9yb29tX2lkXD4=</entry>
         <entry>\&quot;room\.</entry>
@@ -627,6 +629,7 @@
         <entry>70</entry>
         <entry>71</entry>
         <entry>1129</entry>
+        <entry>75</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
