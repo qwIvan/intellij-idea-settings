@@ -289,10 +289,10 @@
       <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/f$1.smali" timestamp="1510688852578">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/forcetech/android/ForceTV.smali" timestamp="1510773963067">
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/forcetech/android/ForceTV.smali" timestamp="1510774674512">
         <mark key="'" line="78" column="19" />
-        <mark key="[" line="127" column="23" />
-        <mark key="]" line="127" column="24" />
+        <mark key="[" line="127" column="21" />
+        <mark key="]" line="127" column="29" />
         <mark key="." line="127" column="24" />
         <mark key="^" line="127" column="24" />
       </file>
@@ -503,7 +503,7 @@
         <text>40</text>
       </register>
       <register name="0" type="4">
-        <text>0x3200000</text>
+        <text>0x6400000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge30sIExjb20vZm9yY2V0ZWNoL2FuZHJvaWQvRm9yY2VUVjstPnN0b3AoKUkK</text>
