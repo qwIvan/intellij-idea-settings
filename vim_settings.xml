@@ -90,11 +90,11 @@
       <file name="$USER_HOME$/GitHubProjects/finalspeed/.gitignore" timestamp="1464702192060">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510759596485">
-        <mark key="'" line="103" column="5" />
-        <mark key="[" line="462" column="0" />
-        <mark key="]" line="462" column="0" />
-        <mark key="." line="462" column="0" />
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510764919959">
+        <mark key="'" line="460" column="5" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="0" />
+        <mark key="." line="406" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/return_url.jsp" timestamp="1470371412430">
         <mark key="'" line="90" column="8" />
@@ -470,20 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="50" filename="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/staticfiles/StaticFilesConfiguration.java" />
-      <jump line="15" column="42" filename="/tmp/sparkdemo/src/Main.java" />
-      <jump line="7" column="20" filename="/tmp/sparkdemo/src/Main.java" />
-      <jump line="76" column="53" filename="$USER_HOME$/.ideaLibSources/spark-template-jade-2.3-sources.jar!/spark/template/jade/JadeTemplateEngine.java" />
-      <jump line="7" column="4" filename="/tmp/sparkdemo/static/index.html" />
-      <jump line="5" column="0" filename="/tmp/sparkdemo/static/index.html" />
-      <jump line="0" column="0" filename="/tmp/sparkdemo/static/index.html" />
-      <jump line="6" column="9" filename="/tmp/sparkdemo/static/index.html" />
-      <jump line="1" column="13" filename="/tmp/sparkdemo/static/index.html" />
-      <jump line="27" column="0" filename="/tmp/sparkdemo/src/Main.java" />
-      <jump line="33" column="0" filename="/tmp/sparkdemo/src/Main.java" />
-      <jump line="0" column="0" filename="/tmp/sparkdemo/src/Main.java" />
-      <jump line="3" column="19" filename="/tmp/sparkdemo/static/index.html" />
-      <jump line="1" column="0" filename="/tmp/sparkdemo/static/index.html.hbs" />
       <jump line="26" column="34" filename="/tmp/sparkdemo/src/Main.java" />
       <jump line="74" column="45" filename="$USER_HOME$/.ideaLibSources/spark-template-handlebars-2.3-sources.jar!/spark/template/handlebars/HandlebarsTemplateEngine.java" />
       <jump line="359" column="13" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
@@ -567,9 +553,23 @@
       <jump line="60" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
       <jump line="98" column="49" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
       <jump line="55" column="15" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="103" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
       <jump line="15" column="22" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="3258" column="6" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="471" column="20" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="93" column="23" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="103" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="113" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="123" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="133" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="153" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="202" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="221" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="227" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="297" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="328" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="402" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="462" column="20" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="460" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -579,46 +579,46 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>调用Fcvs</text>
+        <text>1139</text>
       </register>
       <register name="0" type="4">
-        <text>0x10001</text>
+        <text>sswitch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5saW5lIDE2MTAKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUc6TGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7CgogICAgaW52b2tlLXZpcnR1YWwge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7LT5pc1Nob3duKClaCgogICAgbW92ZS1yZXN1bHQgdjAKCiAgICBpZi1lcXogdjAsIDpjb25kXzAKCiAgICAubGluZSAxNjExCiAgICBpZ2V0LW9iamVjdCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPmFHOkxjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3OwoKICAgIGludm9rZS12aXJ0dWFsIHt2MH0sIExjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3Oy0+c3RvcFBsYXliYWNrKClWCgogICAgLmxpbmUgMTYxMwogICAgOmNvbmRfMAogICAgaWdldC1vYmplY3QgdjAsIHAwLCBMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7LT5hSDpMY29tL2NvbmNoL2dvZGRlc3MvYy9nOwoKICAgIGlmLWVxeiB2MCwgOmNvbmRfMQoKICAgIC5saW5lIDE2MTQKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUg6TGNvbS9jb25jaC9nb2RkZXNzL2MvZzsKCiAgICBpbnZva2UtdmlydHVhbCB7djB9LCBMY29tL2NvbmNoL2dvZGRlc3MvYy9nOy0+YigpVgoKICAgIC5saW5lIDE2MTcKICAgIDpjb25kXzEK</text>
+        <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge30sIExjb20vZm9yY2V0ZWNoL2FuZHJvaWQvRm9yY2VUVjstPnN0b3AoKUkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAweDEwMDAxIC0+IDpzc3dpdGNoXzAKICAgICAgICAweDEwMDAyIC0+IDpzc3dpdGNoXzEK</text>
+        <text encoding="base64">ICAgICAgICAweDIwMDEzIC0+IDpzc3dpdGNoX2EK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdtZW50LkMK</text>
+        <text encoding="base64">ICAgIC5saW5lIDE2MTAKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUc6TGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7CgogICAgaW52b2tlLXZpcnR1YWwge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7LT5pc1Nob3duKClaCgogICAgbW92ZS1yZXN1bHQgdjAKCiAgICBpZi1lcXogdjAsIDpjb25kXzAKCiAgICAubGluZSAxNjExCiAgICBpZ2V0LW9iamVjdCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPmFHOkxjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3OwoKICAgIGludm9rZS12aXJ0dWFsIHt2MH0sIExjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3Oy0+c3RvcFBsYXliYWNrKClWCgogICAgLmxpbmUgMTYxMwogICAgOmNvbmRfMAogICAgaWdldC1vYmplY3QgdjAsIHAwLCBMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7LT5hSDpMY29tL2NvbmNoL2dvZGRlc3MvYy9nOwoKICAgIGlmLWVxeiB2MCwgOmNvbmRfMQoKICAgIC5saW5lIDE2MTQKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUg6TGNvbS9jb25jaC9nb2RkZXNzL2MvZzsKCiAgICBpbnZva2UtdmlydHVhbCB7djB9LCBMY29tL2NvbmNoL2dvZGRlc3MvYy9nOy0+YigpVgoKICAgIC5saW5lIDE2MTcKICAgIDpjb25kXzEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzZW50ZW5jZSA6IHRlc3RDYXNlKSB7CiAgICAgICAgICAgIExpc3Q8VGVybT4gdGVybUxpc3QgPSBzZWdtZW50LnNlZyhzZW50ZW5jZSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXJtTGlzdCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAweDEwMDAxIC0+IDpzc3dpdGNoXzAKICAgICAgICAweDEwMDAyIC0+IDpzc3dpdGNoXzEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50LkMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzZW50ZW5jZSA6IHRlc3RDYXNlKSB7CiAgICAgICAgICAgIExpc3Q8VGVybT4gdGVybUxpc3QgPSBzZWdtZW50LnNlZyhzZW50ZW5jZSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXJtTGlzdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9OwogICAgICAgIFNlZ21lbnQgc2VnbWVudCA9IEhhbkxQLm5ld1NlZ21lbnQoKS5lbmFibGVOYW1lUmVjb2duaXplKHRydWUpOwogICAgICAgIGZvciAoU3RyaW5nIHNlbnRlbmNlIDogdGVzdENhc2UpIHsKICAgICAgICAgICAgTGlzdDxUZXJtPiB0ZXJtTGlzdCA9IHNlZ21lbnQuc2VnKHNlbnRlbmNlKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlcm1MaXN0KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0ZXN0Q2FzZSA9IG5ldyBTdHJpbmdbXXsKICAgICAgICAgICAgICAgICLnrb7nuqbku6rlvI/liY3vvIznp6blhYnojaPjgIHmnY7nuqrmgZLjgIHku4flkoznrYnkuIDlkIzkvJrop4Hkuoblj4LliqDnrb7nuqbnmoTkvIHkuJrlrrbjgIIiLAogICAgICAgICAgICAgICAgIueOi+WbveW8uuOAgemrmOWzsOOAgeaxqua0i+OAgeW8oOacnemYs+WFieedgOWktOOAgemfqeWvkuOAgeWwj+WbmyIsCiAgICAgICAgICAgICAgICAi5byg5rWp5ZKM6IOh5YGl5bq35aSN5ZGY5Zue5a625LqGIiwKICAgICAgICAgICAgICAgICLnjovmgLvlkozlsI/kuL3nu5PlqZrkuoYiLAogICAgICAgICAgICAgICAgIue8luWJp+mCtemSp+ael+WSjOeovemBk+mdkuivtCIsCiAgICAgICAgICAgICAgICAi6L+Z6YeM5pyJ5YWz5aSp5Z+555qE5pyJ5YWz5LqL6L+5IiwKICAgICAgICAgICAgICAgICLpvprlrablubPnrYnpooblr7ws6YKT6aKW6LaF55Sf5YmNIiwKICAgICAgICB9OwogICAgICAgIFNlZ21lbnQgc2VnbWVudCA9IEhhbkxQLm5ld1NlZ21lbnQoKS5lbmFibGVOYW1lUmVjb2duaXplKHRydWUpOwogICAgICAgIGZvciAoU3RyaW5nIHNlbnRlbmNlIDogdGVzdENhc2UpIHsKICAgICAgICAgICAgTGlzdDxUZXJtPiB0ZXJtTGlzdCA9IHNlZ21lbnQuc2VnKHNlbnRlbmNlKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlcm1MaXN0KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>调用Fcvs</last-search>
+      <last-search>1139</last-search>
       <last-offset />
-      <last-pattern>调用Fcvs</last-pattern>
+      <last-pattern>1139</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -626,10 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSb3V0ZVw+</entry>
-        <entry>iptables</entry>
-        <entry encoding="base64">XDxBTk5PVEFURURNQVBQRVJcPg==</entry>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>59</entry>
         <entry>1128</entry>
         <entry>70</entry>
@@ -646,6 +642,10 @@
         <entry>1609</entry>
         <entry>1610</entry>
         <entry>调用Fcvs</entry>
+        <entry encoding="base64">XDxzc3dpdGNoX2FcPg==</entry>
+        <entry>sswitch10</entry>
+        <entry>sswitch</entry>
+        <entry>1139</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
