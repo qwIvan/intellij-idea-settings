@@ -309,6 +309,9 @@
       <file name="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" timestamp="1472722456441">
         <mark key="'" line="373" column="31" />
       </file>
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" timestamp="1510766211378">
+        <mark key="'" line="37" column="10" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/utils/LogOutputStream.java" timestamp="1465797484069">
         <mark key="'" line="6" column="13" />
       </file>
@@ -458,7 +461,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510759408139">
+      <file name="/fragment.java" timestamp="1510766290435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/qrtest/src/main/java/Main.java" timestamp="1497797341674">
@@ -470,14 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="34" filename="/tmp/sparkdemo/src/Main.java" />
-      <jump line="74" column="45" filename="$USER_HOME$/.ideaLibSources/spark-template-handlebars-2.3-sources.jar!/spark/template/handlebars/HandlebarsTemplateEngine.java" />
-      <jump line="359" column="13" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
-      <jump line="424" column="18" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
-      <jump line="373" column="31" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" />
-      <jump line="66" column="27" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" />
-      <jump line="59" column="28" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/AbstractTemplateLoader.java" />
-      <jump line="67" column="28" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" />
       <jump line="81" column="25" filename="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/io/URLTemplateLoader.java" />
       <jump line="18" column="0" filename="/tmp/sparkdemo/src/Main.java" />
       <jump line="20" column="0" filename="/tmp/sparkdemo/src/Main.java" />
@@ -570,6 +565,14 @@
       <jump line="402" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
       <jump line="462" column="20" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
       <jump line="460" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="242" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="296" column="9" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="0" column="3" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="329" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="23" column="9" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="24" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="34" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
+      <jump line="37" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -579,7 +582,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>1139</text>
+        <text>method</text>
       </register>
       <register name="0" type="4">
         <text>sswitch</text>
@@ -616,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1139</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>1139</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -626,10 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>59</entry>
-        <entry>1128</entry>
-        <entry>70</entry>
-        <entry>71</entry>
         <entry>1129</entry>
         <entry>75</entry>
         <entry>2045</entry>
@@ -646,6 +645,10 @@
         <entry>sswitch10</entry>
         <entry>sswitch</entry>
         <entry>1139</entry>
+        <entry>265</entry>
+        <entry encoding="base64">XDxwc3dpdGNoXzZcPg==</entry>
+        <entry>a</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
