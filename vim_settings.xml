@@ -5,11 +5,6 @@
       <mark key="M" line="41" column="10" filename="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/Main.java" />
     </globalmarks>
     <filemarks>
-      <file name="/tmp/sparkdemo/res/spark/template/freemarker/test.ftl" timestamp="1472724281540">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/c.smali" timestamp="1510819739129">
         <mark key="'" line="0" column="0" />
       </file>
@@ -44,11 +39,6 @@
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/Rooms.vue" timestamp="1463162958747">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/tmp/sparkdemo/static/index.html.hbs" timestamp="1472722196935">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/StreamPipe.java" timestamp="1465789192882">
         <mark key="'" line="25" column="21" />
@@ -86,12 +76,12 @@
       <file name="$USER_HOME$/GitHubProjects/finalspeed/.gitignore" timestamp="1464702192060">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510834576403">
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510840898886">
         <mark key="'" line="354" column="72" />
-        <mark key="[" line="331" column="72" />
-        <mark key="]" line="331" column="75" />
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="0" />
         <mark key="^" line="331" column="75" />
-        <mark key="." line="331" column="75" />
+        <mark key="." line="331" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/return_url.jsp" timestamp="1470371412430">
         <mark key="'" line="90" column="8" />
@@ -114,6 +104,11 @@
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/mybatis_plus/lib/mybatis_plus.jar!/schemas/mybatis-generator-config_1_0.dtd" timestamp="1472708602237">
         <mark key="'" line="134" column="27" />
+      </file>
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" timestamp="1510842548466">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="232" column="32" />
+        <mark key="]" line="232" column="33" />
       </file>
       <file name="/tmp/untitled1/pom.xml" timestamp="1463336452150">
         <mark key="'" line="706" column="8" />
@@ -258,11 +253,6 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/testjcseg/pom.xml" timestamp="1503132799881">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="21" column="3" />
-      </file>
       <file name="$USER_HOME$/.ideaLibSources/handlebars-1.3.1-sources.jar!/com/github/jknack/handlebars/Handlebars.java" timestamp="1472722456441">
         <mark key="'" line="373" column="31" />
       </file>
@@ -271,11 +261,6 @@
       </file>
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/utils/LogOutputStream.java" timestamp="1465797484069">
         <mark key="'" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/utils/JdbcUtils.java" timestamp="1472697708924">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/rudp/RUDPConfig.java" timestamp="1465838205898">
         <mark key="'" line="4" column="13" />
@@ -325,12 +310,12 @@
       <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" timestamp="1510684707448">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510838407102">
-        <mark key="'" line="7147" column="0" />
-        <mark key="[" line="7156" column="74" />
-        <mark key="]" line="7156" column="74" />
-        <mark key="." line="7156" column="74" />
-        <mark key="^" line="3310" column="29" />
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510844134345">
+        <mark key="'" line="7148" column="14" />
+        <mark key="[" line="7152" column="12" />
+        <mark key="]" line="7152" column="13" />
+        <mark key="." line="7152" column="13" />
+        <mark key="^" line="7158" column="24" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/SMTPService.java" timestamp="1470371301656">
         <mark key="'" line="44" column="8" />
@@ -347,7 +332,7 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510828238339">
+      <file name="/Dummy.txt" timestamp="1510843408052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/config/MyBatisConfig.java" timestamp="1465239612992">
@@ -385,11 +370,6 @@
       <file name="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/resource/ClassPathResourceHandler.java" timestamp="1472713898810">
         <mark key="'" line="67" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e5e43ae9-b012-47a6-8a08-910881c1fd2c/console.sql" timestamp="1472710882400">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1510766290435">
         <mark key="[" line="0" column="0" />
       </file>
@@ -402,14 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="24" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="345" column="19" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="3555" column="21" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="7142" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="7152" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="7162" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="7274" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="7284" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7304" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7340" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7350" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
@@ -502,67 +474,70 @@
       <jump line="7143" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7147" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7141" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7148" column="14" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9402" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="233" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
+      <jump line="230" column="26" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
+      <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
+      <jump line="232" column="32" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
+      <jump line="231" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
+      <jump line="6557" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
       </register>
       <register name="-" type="4">
-        <text>ILjava/lang/Boolean;</text>
+        <text>p1</text>
       </register>
       <register name="/" type="4">
-        <text>method</text>
+        <text>1098</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+dChMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7KVYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjb25zdCB2MCwgMHg0CgogICAgY29uc3QvNCB2MSwgMHgxCgogICAgaW52b2tlLXN0YXRpYyB7djF9LCBMamF2YS9sYW5nL0Jvb2xlYW47LT52YWx1ZU9mKFopTGphdmEvbGFuZy9Cb29sZWFuOwoKICAgIG1vdmUtcmVzdWx0LW9iamVjdCB2MQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zdCB2MCwgMHhjCgogICAgY29uc3QvNCB2MSwgMHgxCgogICAgaW52b2tlLXN0YXRpYyB7djF9LCBMamF2YS9sYW5nL0Jvb2xlYW47LT52YWx1ZU9mKFopTGphdmEvbGFuZy9Cb29sZWFuOwoKICAgIG1vdmUtcmVzdWx0LW9iamVjdCB2MQoKICAgIGludm9rZS12aXJ0dWFsIHt2MywgdjAsIHYxfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YShJTGphdmEvbGFuZy9Cb29sZWFuOylWCg==</text>
+        <text encoding="base64">ICAgIGlwdXQtb2JqZWN0IHYxLCB2MCwgTGFuZHJvaWQvb3MvTWVzc2FnZTstPm9iajpMamF2YS9sYW5nL09iamVjdDsKCiAgICBpZ2V0LW9iamVjdCB2MSwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPmJoOkxhbmRyb2lkL29zL0hhbmRsZXI7CgogICAgY29uc3Qtd2lkZS8xNiB2MiwgMHgzZTgKCiAgICBpbnZva2UtdmlydHVhbCB7djEsIHYwLCB2Mn0sIExhbmRyb2lkL29zL0hhbmRsZXI7LT5oYW5kbGVNZXNzYWdlKExhbmRyb2lkL29zL01lc3NhZ2U7KVYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBpZ2V0LW9iamVjdCB2MywgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eSRkOy0+YTpMamF2YS9sYW5nL3JlZi9XZWFrUmVmZXJlbmNlOwoKICAgIGludm9rZS12aXJ0dWFsIHt2M30sIExqYXZhL2xhbmcvcmVmL1dlYWtSZWZlcmVuY2U7LT5nZXQoKUxqYXZhL2xhbmcvT2JqZWN0OwoKICAgIG1vdmUtcmVzdWx0LW9iamVjdCB2MwoKICAgIGNoZWNrLWNhc3QgdjMsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTsK</text>
+        <text encoding="base64">ICAgIG5ldy1pbnN0YW5jZSB2MCwgTGFuZHJvaWQvb3MvTWVzc2FnZTsKCiAgICBpbnZva2UtZGlyZWN0IHt2MH0sIExhbmRyb2lkL29zL01lc3NhZ2U7LT48aW5pdD4oKVYKCiAgICBjb25zdCB2MSwgMHgxMDAxNQoKICAgIGlwdXQgdjEsIHYwLCBMYW5kcm9pZC9vcy9NZXNzYWdlOy0+d2hhdDpJCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5saW5lIDEyNwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci5tZXRob2Qgc3RhdGljIHN5bnRoZXRpYyB0KExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTspVgogICAgLmxvY2FscyAwCgogICAgLnByb2xvZ3VlCiAgICAubGluZSAxMjcKICAgIGludm9rZS1kaXJlY3Qge3AwfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+QygpVgoKICAgIHJldHVybi12b2lkCi5lbmQgbWV0aG9kCgo=</text>
+        <text encoding="base64">ICAgIGludm9rZS1kaXJlY3Qge3AwfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+RygpVgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lm1ldGhvZCBzdGF0aWMgc3ludGhldGljIHooTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5OylJCiAgICAubG9jYWxzIDEKCiAgICAucHJvbG9ndWUKICAgIC5saW5lIDEyNwogICAgaWdldCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPnU6SQoKICAgIHJldHVybiB2MAo=</text>
+        <text encoding="base64">CiAgICBpZ2V0LW9iamVjdCB2MSwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eSQ5Oy0+YTpMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7CgogICAgaW52b2tlLXN0YXRpYyB7djF9LCBMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7LT5lKExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTspTGFuZHJvaWQvb3MvSGFuZGxlcjsKCiAgICBtb3ZlLXJlc3VsdC1vYmplY3QgdjEKCiAgICBjb25zdC13aWRlLzE2IHYyLCAweDNlOAoKICAgIGludm9rZS12aXJ0dWFsIHt2MSwgdjAsIHYyLCB2M30sIExhbmRyb2lkL29zL0hhbmRsZXI7LT5zZW5kTWVzc2FnZURlbGF5ZWQoTGFuZHJvaWQvb3MvTWVzc2FnZTtKKVoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmVuZCBtZXRob2QKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lm1ldGhvZCBzdGF0aWMgc3ludGhldGljIHooTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5OylJCiAgICAubG9jYWxzIDEKCiAgICAucHJvbG9ndWUKICAgIC5saW5lIDEyNwogICAgaWdldCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPnU6SQoKICAgIHJldHVybiB2MAouZW5kIG1ldGhvZAo=</text>
+        <text encoding="base64">ICAgIGludm9rZS1kaXJlY3Qge3AwfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+RygpVgoKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YU46TGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYmVhbi9DaGFubmVsOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lm1ldGhvZCBzdGF0aWMgc3ludGhldGljIHooTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5OylJCiAgICAubG9jYWxzIDEKCiAgICAucHJvbG9ndWUKICAgIC5saW5lIDEyNwogICAgaWdldCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPnU6SQoKICAgIHJldHVybiB2MAouZW5kIG1ldGhvZAoK</text>
+        <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+Y2hhbihMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7KVYK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>1098</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>1098</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1506</entry>
-        <entry>50</entry>
-        <entry>3037</entry>
-        <entry encoding="base64">XDxnb3RvXzFcPg==</entry>
-        <entry>1484</entry>
         <entry>2484</entry>
         <entry>2500</entry>
         <entry>1135</entry>
@@ -578,6 +553,11 @@
         <entry>.locals</entry>
         <entry>1138</entry>
         <entry>method</entry>
+        <entry>899</entry>
+        <entry>2209</entry>
+        <entry encoding="base64">XDx2M1w+</entry>
+        <entry>v3</entry>
+        <entry>1098</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
