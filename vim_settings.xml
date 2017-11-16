@@ -10,6 +10,9 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/c.smali" timestamp="1510819739129">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/webchat4/webchat4/src/net/togogo/servlets/addFriendsServlet.java" timestamp="1472698050722">
         <mark key="'" line="15" column="18" />
       </file>
@@ -400,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="7" filename="/tmp/sparkdemo/res/templates/index.html.ftl" />
       <jump line="0" column="0" filename="/tmp/sparkdemo/res/templates/index.html.ftl" />
       <jump line="38" column="25" filename="/tmp/sparkdemo/src/Main.java" />
       <jump line="47" column="41" filename="$USER_HOME$/.ideaLibSources/spark-template-freemarker-2.3-sources.jar!/spark/template/freemarker/FreeMarkerEngine.java" />
@@ -500,6 +502,7 @@
       <jump line="1297" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="1276" column="17" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="972" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/c.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -509,7 +512,7 @@
         <text>eqz</text>
       </register>
       <register name="/" type="4">
-        <text>1506</text>
+        <text>50</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0LzE2IHYxLCAweDgK</text>
@@ -546,9 +549,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1506</last-search>
+      <last-search>50</last-search>
       <last-offset />
-      <last-pattern>1506</last-pattern>
+      <last-pattern>50</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -556,7 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1138</entry>
         <entry>handleMessage</entry>
         <entry encoding="base64">XDxzc3dpdGNoXzBcPg==</entry>
         <entry>调用Fcvs</entry>
@@ -576,6 +578,7 @@
         <entry>1609</entry>
         <entry>1610</entry>
         <entry>1506</entry>
+        <entry>50</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
