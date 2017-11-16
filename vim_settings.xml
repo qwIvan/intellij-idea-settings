@@ -322,8 +322,8 @@
       <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" timestamp="1510684707448">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510761281433">
-        <mark key="'" line="3258" column="6" />
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510815541587">
+        <mark key="'" line="1267" column="19" />
         <mark key="[" line="3258" column="7" />
         <mark key="]" line="3258" column="7" />
         <mark key="." line="3258" column="7" />
@@ -398,7 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="/tmp/sparkdemo/res/templates/index.html" />
       <jump line="25" column="32" filename="/tmp/sparkdemo/src/Main.java" />
       <jump line="2" column="13" filename="/tmp/sparkdemo/src/domain/User.java" />
       <jump line="1" column="6" filename="/tmp/sparkdemo/res/templates/index.html" />
@@ -498,6 +497,7 @@
       <jump line="15" column="56" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/vod/activity/VideoPlayerActivity.smali" />
       <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/publics/a/e.smali" />
       <jump line="1820" column="51" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/vod/activity/VideoPlayerActivity.smali" />
+      <jump line="1267" column="19" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -507,7 +507,7 @@
         <text>32</text>
       </register>
       <register name="/" type="4">
-        <text>213</text>
+        <text>1333</text>
       </register>
       <register name="0" type="4">
         <text>0x6400000</text>
@@ -544,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search>213</last-search>
+      <last-search>1333</last-search>
       <last-offset />
-      <last-pattern>213</last-pattern>
+      <last-pattern>1333</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -554,7 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCreate</entry>
         <entry>onResume</entry>
         <entry>1138</entry>
         <entry>handleMessage</entry>
@@ -574,6 +573,7 @@
         <entry>p2p:</entry>
         <entry>60</entry>
         <entry>213</entry>
+        <entry>1333</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
