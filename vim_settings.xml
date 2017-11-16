@@ -29,6 +29,7 @@
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/client/ClientNoUI.java" timestamp="1465802264023">
         <mark key="'" line="9" column="11" />
       </file>
+      <file name="/LiveActivity$d.smali" timestamp="1510831360382" />
       <file name="/tmp/demo/src/main/java/com/example/DemoApplication.java" timestamp="1463333968369">
         <mark key="'" line="9" column="26" />
       </file>
@@ -85,12 +86,12 @@
       <file name="$USER_HOME$/GitHubProjects/finalspeed/.gitignore" timestamp="1464702192060">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510826837130">
-        <mark key="'" line="340" column="0" />
-        <mark key="[" line="331" column="9" />
-        <mark key="]" line="331" column="9" />
-        <mark key="^" line="334" column="0" />
-        <mark key="." line="331" column="9" />
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510831816036">
+        <mark key="'" line="341" column="15" />
+        <mark key="[" line="423" column="0" />
+        <mark key="]" line="423" column="0" />
+        <mark key="^" line="345" column="20" />
+        <mark key="." line="423" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/return_url.jsp" timestamp="1470371412430">
         <mark key="'" line="90" column="8" />
@@ -324,10 +325,10 @@
       <file name="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" timestamp="1510684707448">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510826453150">
-        <mark key="'" line="1231" column="11" />
-        <mark key="[" line="10877" column="0" />
-        <mark key="]" line="10878" column="103" />
+      <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510832329747">
+        <mark key="'" line="7558" column="1" />
+        <mark key="[" line="7548" column="15" />
+        <mark key="]" line="7548" column="23" />
         <mark key="." line="3310" column="30" />
         <mark key="^" line="1271" column="15" />
       </file>
@@ -346,7 +347,7 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510826596436">
+      <file name="/Dummy.txt" timestamp="1510828238339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/config/MyBatisConfig.java" timestamp="1465239612992">
@@ -401,168 +402,162 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/qrtest/src/Main.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/qrtest/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/qrtest/build.gradle" />
-      <jump line="15" column="17" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
-      <jump line="20" column="26" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
-      <jump line="7" column="26" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
-      <jump line="24" column="118" filename="$USER_HOME$/qrtest/src/main/java/Main.java" />
-      <jump line="13" column="7" filename="$USER_HOME$/testjcseg/pom.xml" />
-      <jump line="20" column="27" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
-      <jump line="11" column="8" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
-      <jump line="575" column="16" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Segment.java" />
-      <jump line="8" column="53" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
-      <jump line="574" column="19" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Segment.java" />
-      <jump line="25" column="19" filename="$MAVEN_REPOSITORY$/com/hankcs/hanlp/portable-1.3.4/hanlp-portable-1.3.4-sources.jar!/com/hankcs/hanlp/seg/Config.java" />
-      <jump line="9" column="36" filename="$USER_HOME$/testjcseg/src/main/java/Test.java" />
-      <jump line="22" column="16" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/b.smali" />
-      <jump line="23" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/bean/Datas.smali" />
-      <jump line="0" column="0" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/f$1.smali" />
-      <jump line="4238" column="4" filename="/tmp/壹粤TV-3.1.7/smali/com/conch/goddess/launcher/LoginActivity.smali" />
-      <jump line="18" column="33" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="10305" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="70" column="28" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="11995" column="18" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="60" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="98" column="49" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="55" column="15" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="15" column="22" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="3258" column="6" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="471" column="20" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="93" column="23" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="103" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="113" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="123" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="133" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="153" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="202" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="221" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="227" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="297" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="328" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="402" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="462" column="20" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="460" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="242" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="296" column="9" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="0" column="3" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="329" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="23" column="9" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="24" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="34" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="37" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/c/g$2.smali" />
-      <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/forcetech/android/ForceTV.smali" />
-      <jump line="78" column="19" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/forcetech/android/ForceTV.smali" />
-      <jump line="15" column="56" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/vod/activity/VideoPlayerActivity.smali" />
-      <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/publics/a/e.smali" />
-      <jump line="1820" column="51" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/vod/activity/VideoPlayerActivity.smali" />
-      <jump line="1267" column="19" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="4349" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="1297" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="1276" column="17" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="972" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/a/c.smali" />
-      <jump line="2996" column="17" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="399" column="13" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="110" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="97" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="454" column="13" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="3310" column="29" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="10878" column="20" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="874" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="2993" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="10868" column="32" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="10867" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="398" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="329" column="27" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="201" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="335" column="18" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="0" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="11755" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="3041" column="11" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="11787" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="11783" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="11780" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="2948" column="25" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="11590" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="10871" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="1231" column="11" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="3687" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="343" column="68" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="342" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="326" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="330" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="332" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="334" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="336" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="338" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="340" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="265" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="22" column="13" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="30" column="34" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="40" column="24" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="47" column="24" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="68" column="24" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="74" column="19" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="351" column="24" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="347" column="33" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="339" column="24" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="345" column="19" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="3555" column="21" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7141" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7142" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7152" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7162" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7274" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7284" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7304" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7340" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7350" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="341" column="15" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
+      <jump line="10497" column="22" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="10462" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="10460" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="10390" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="10388" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="10303" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="10301" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9533" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9531" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9485" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9483" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9475" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9473" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9465" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9463" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9455" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9453" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9428" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9426" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9418" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9416" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9390" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9388" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9192" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9190" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9122" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9120" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9091" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9089" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9068" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9066" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9042" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9040" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9034" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9032" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9009" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="9007" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8960" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8958" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8945" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8943" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8916" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8914" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8859" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8857" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8848" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8846" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8818" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8816" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8807" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8805" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8649" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8647" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8519" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8517" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8511" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8509" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8399" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8397" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8355" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8353" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7935" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7933" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7927" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7925" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7916" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7914" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7880" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7878" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7820" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7819" column="10" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7816" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7395" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7403" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7405" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7546" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7548" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7556" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="7558" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
       </register>
       <register name="-" type="4">
-        <text>-wide/16</text>
+        <text>invoke-direct</text>
       </register>
       <register name="/" type="4">
-        <text>3518</text>
+        <text>method</text>
       </register>
       <register name="0" type="4">
-        <text>const-wide/16</text>
+        <text>synthetic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+dChMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7KVYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5saW5lIDE2MTAKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUc6TGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7CgogICAgaW52b2tlLXZpcnR1YWwge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7LT5pc1Nob3duKClaCgogICAgbW92ZS1yZXN1bHQgdjAKCiAgICBpZi1lcXogdjAsIDpjb25kXzAKCiAgICAubGluZSAxNjExCiAgICBpZ2V0LW9iamVjdCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPmFHOkxjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3OwoKICAgIGludm9rZS12aXJ0dWFsIHt2MH0sIExjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3Oy0+c3RvcFBsYXliYWNrKClWCgogICAgLmxpbmUgMTYxMwogICAgOmNvbmRfMAogICAgaWdldC1vYmplY3QgdjAsIHAwLCBMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7LT5hSDpMY29tL2NvbmNoL2dvZGRlc3MvYy9nOwoKICAgIGlmLWVxeiB2MCwgOmNvbmRfMQoKICAgIC5saW5lIDE2MTQKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUg6TGNvbS9jb25jaC9nb2RkZXNzL2MvZzsKCiAgICBpbnZva2UtdmlydHVhbCB7djB9LCBMY29tL2NvbmNoL2dvZGRlc3MvYy9nOy0+YigpVgoKICAgIC5saW5lIDE2MTcKICAgIDpjb25kXzEK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge30sIExjb20vZm9yY2V0ZWNoL2FuZHJvaWQvRm9yY2VUVjstPnN0b3AoKUkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAweDIwMDEzIC0+IDpzc3dpdGNoX2EK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC5saW5lIDE2MTAKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUc6TGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7CgogICAgaW52b2tlLXZpcnR1YWwge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7LT5pc1Nob3duKClaCgogICAgbW92ZS1yZXN1bHQgdjAKCiAgICBpZi1lcXogdjAsIDpjb25kXzAKCiAgICAubGluZSAxNjExCiAgICBpZ2V0LW9iamVjdCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPmFHOkxjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3OwoKICAgIGludm9rZS12aXJ0dWFsIHt2MH0sIExjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3Oy0+c3RvcFBsYXliYWNrKClWCgogICAgLmxpbmUgMTYxMwogICAgOmNvbmRfMAogICAgaWdldC1vYmplY3QgdjAsIHAwLCBMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7LT5hSDpMY29tL2NvbmNoL2dvZGRlc3MvYy9nOwoKICAgIGlmLWVxeiB2MCwgOmNvbmRfMQoKICAgIC5saW5lIDE2MTQKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUg6TGNvbS9jb25jaC9nb2RkZXNzL2MvZzsKCiAgICBpbnZva2UtdmlydHVhbCB7djB9LCBMY29tL2NvbmNoL2dvZGRlc3MvYy9nOy0+YigpVgoKICAgIC5saW5lIDE2MTcKICAgIDpjb25kXzEK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGludm9rZS1zdGF0aWMge30sIExjb20vZm9yY2V0ZWNoL2FuZHJvaWQvRm9yY2VUVjstPnN0b3AoKUkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAweDIwMDEzIC0+IDpzc3dpdGNoX2EK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAweDEwMDAxIC0+IDpzc3dpdGNoXzAKICAgICAgICAweDEwMDAyIC0+IDpzc3dpdGNoXzEK</text>
+        <text encoding="base64">ICAgIC5saW5lIDE2MTAKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUc6TGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7CgogICAgaW52b2tlLXZpcnR1YWwge3YwfSwgTGNvbS9jb25jaC9nb2RkZXNzL3B1YmxpY3Mvdmlldy9iYXNlL0lWaWRlb1ZpZXc7LT5pc1Nob3duKClaCgogICAgbW92ZS1yZXN1bHQgdjAKCiAgICBpZi1lcXogdjAsIDpjb25kXzAKCiAgICAubGluZSAxNjExCiAgICBpZ2V0LW9iamVjdCB2MCwgcDAsIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPmFHOkxjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3OwoKICAgIGludm9rZS12aXJ0dWFsIHt2MH0sIExjb20vY29uY2gvZ29kZGVzcy9wdWJsaWNzL3ZpZXcvYmFzZS9JVmlkZW9WaWV3Oy0+c3RvcFBsYXliYWNrKClWCgogICAgLmxpbmUgMTYxMwogICAgOmNvbmRfMAogICAgaWdldC1vYmplY3QgdjAsIHAwLCBMY29tL2NvbmNoL2dvZGRlc3MvbGl2ZS9hY3Rpdml0eS9MaXZlQWN0aXZpdHk7LT5hSDpMY29tL2NvbmNoL2dvZGRlc3MvYy9nOwoKICAgIGlmLWVxeiB2MCwgOmNvbmRfMQoKICAgIC5saW5lIDE2MTQKICAgIGlnZXQtb2JqZWN0IHYwLCBwMCwgTGNvbS9jb25jaC9nb2RkZXNzL2xpdmUvYWN0aXZpdHkvTGl2ZUFjdGl2aXR5Oy0+YUg6TGNvbS9jb25jaC9nb2RkZXNzL2MvZzsKCiAgICBpbnZva2UtdmlydHVhbCB7djB9LCBMY29tL2NvbmNoL2dvZGRlc3MvYy9nOy0+YigpVgoKICAgIC5saW5lIDE2MTcKICAgIDpjb25kXzEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdtZW50LkMK</text>
+        <text encoding="base64">ICAgICAgICAweDEwMDAxIC0+IDpzc3dpdGNoXzAKICAgICAgICAweDEwMDAyIC0+IDpzc3dpdGNoXzEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzZW50ZW5jZSA6IHRlc3RDYXNlKSB7CiAgICAgICAgICAgIExpc3Q8VGVybT4gdGVybUxpc3QgPSBzZWdtZW50LnNlZyhzZW50ZW5jZSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXJtTGlzdCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWdtZW50LkMK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>3518</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>3518</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>p2p:</entry>
-        <entry>60</entry>
-        <entry>213</entry>
-        <entry>1333</entry>
-        <entry>1609</entry>
-        <entry>1610</entry>
         <entry>1506</entry>
         <entry>50</entry>
         <entry>3037</entry>
@@ -577,6 +572,12 @@
         <entry>601</entry>
         <entry>2266</entry>
         <entry>3518</entry>
+        <entry>1124</entry>
+        <entry>1044</entry>
+        <entry>Lcom</entry>
+        <entry>.locals</entry>
+        <entry>1138</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
