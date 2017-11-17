@@ -24,7 +24,6 @@
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/client/ClientNoUI.java" timestamp="1465802264023">
         <mark key="'" line="9" column="11" />
       </file>
-      <file name="/LiveActivity$d.smali" timestamp="1510831360382" />
       <file name="/tmp/demo/src/main/java/com/example/DemoApplication.java" timestamp="1463333968369">
         <mark key="'" line="9" column="26" />
       </file>
@@ -350,6 +349,13 @@
       <file name="$USER_HOME$/.ideaLibSources/spark-template-jade-2.3-sources.jar!/spark/template/jade/JadeTemplateEngine.java" timestamp="1472714499894">
         <mark key="'" line="76" column="53" />
       </file>
+      <file name="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/publics/TVApplication.smali" timestamp="1510935999898">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="183" column="7" />
+        <mark key="]" line="183" column="8" />
+        <mark key="." line="183" column="8" />
+        <mark key="^" line="183" column="8" />
+      </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/resources/mapper/AdminMapper.xml" timestamp="1463234621111">
         <mark key="'" line="38" column="14" />
       </file>
@@ -382,7 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7304" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7340" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="7350" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="341" column="15" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
@@ -482,16 +487,17 @@
       <jump line="232" column="32" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
       <jump line="231" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
       <jump line="6557" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="0" column="0" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/publics/TVApplication.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkgKiAgYXMgYWxsIHRoZSBtZXNzYWdlcyBvZiBmb2xsb3dlZCB1c2Vycy4K</text>
       </register>
       <register name="-" type="4">
-        <text>p1</text>
+        <text>eq</text>
       </register>
       <register name="/" type="4">
-        <text>1098</text>
+        <text>99</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBpbnZva2UtZGlyZWN0IHtwMH0sIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPkcoKVYK</text>
@@ -528,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1098</last-search>
+      <last-search>99</last-search>
       <last-offset />
-      <last-pattern>1098</last-pattern>
+      <last-pattern>99</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2484</entry>
         <entry>2500</entry>
         <entry>1135</entry>
         <entry>1078</entry>
@@ -558,6 +563,7 @@
         <entry encoding="base64">XDx2M1w+</entry>
         <entry>v3</entry>
         <entry>1098</entry>
+        <entry>99</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
