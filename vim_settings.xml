@@ -24,6 +24,11 @@
       <file name="$USER_HOME$/GitHubProjects/finalspeed/src/net/fs/client/ClientNoUI.java" timestamp="1465802264023">
         <mark key="'" line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510998275799">
+        <mark key="'" line="8454" column="13" />
+        <mark key="[" line="8626" column="4" />
+        <mark key="]" line="8626" column="10" />
+      </file>
       <file name="/tmp/demo/src/main/java/com/example/DemoApplication.java" timestamp="1463333968369">
         <mark key="'" line="9" column="26" />
       </file>
@@ -335,7 +340,7 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510996509304">
+      <file name="/Dummy.txt" timestamp="1510998084917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/config/MyBatisConfig.java" timestamp="1465239612992">
@@ -380,7 +385,7 @@
       <file name="$USER_HOME$/.ideaLibSources/spark-core-2.5-sources.jar!/spark/resource/ClassPathResourceHandler.java" timestamp="1472713898810">
         <mark key="'" line="67" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1510766290435">
+      <file name="/fragment.java" timestamp="1510998248732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/qrtest/src/main/java/Main.java" timestamp="1497797341674">
@@ -392,11 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7340" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="7350" column="4" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="341" column="15" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" />
-      <jump line="10497" column="22" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
-      <jump line="10462" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="10460" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="10390" column="1" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="10388" column="5" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
@@ -492,6 +492,11 @@
       <jump line="231" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$9.smali" />
       <jump line="6557" column="0" filename="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
       <jump line="0" column="0" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/publics/TVApplication.smali" />
+      <jump line="24" column="0" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="12014" column="4" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8895" column="10" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8454" column="13" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
+      <jump line="8626" column="4" filename="$USER_HOME$/HDVB-3.1/smali/com/conch/goddess/live/activity/LiveActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -501,10 +506,10 @@
         <text>eq</text>
       </register>
       <register name="/" type="4">
-        <text>99</text>
+        <text>return</text>
       </register>
       <register name="0" type="4">
-        <text>com.conch.goddess.live.activity.LiveActivity</text>
+        <text>:goto_0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -538,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>99</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>99</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-replace />
       <last-substitute>^\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -548,10 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2500</entry>
-        <entry>1135</entry>
-        <entry>1078</entry>
-        <entry>201</entry>
         <entry>206</entry>
         <entry>601</entry>
         <entry>2266</entry>
@@ -568,6 +569,10 @@
         <entry>v3</entry>
         <entry>1098</entry>
         <entry>99</entry>
+        <entry>onCreate</entry>
+        <entry>onRe</entry>
+        <entry>2955</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>%s//room/g</entry>
