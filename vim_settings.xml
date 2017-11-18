@@ -316,6 +316,10 @@
         <mark key="." line="7158" column="73" />
         <mark key="^" line="7156" column="24" />
       </file>
+      <file name="$USER_HOME$/HDVB-3.1/AndroidManifest.xml" timestamp="1510996596702">
+        <mark key="[" line="22" column="79" />
+        <mark key="]" line="22" column="122" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/MySSPanel/src/main/java/com/github/qwivan/SMTPService.java" timestamp="1470371301656">
         <mark key="'" line="44" column="8" />
       </file>
@@ -331,7 +335,7 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510995201812">
+      <file name="/Dummy.txt" timestamp="1510996509304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/main/java/payment/com/config/MyBatisConfig.java" timestamp="1465239612992">
@@ -499,8 +503,8 @@
       <register name="/" type="4">
         <text>99</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBpbnZva2UtZGlyZWN0IHtwMH0sIExjb20vY29uY2gvZ29kZGVzcy9saXZlL2FjdGl2aXR5L0xpdmVBY3Rpdml0eTstPkcoKVYK</text>
+      <register name="0" type="4">
+        <text>com.conch.goddess.live.activity.LiveActivity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
