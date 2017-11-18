@@ -74,6 +74,7 @@
       <file name="/tmp/sparkdemo/src/mapper/FriendshipMapper.java" timestamp="1472708755324">
         <mark key="'" line="46" column="25" />
       </file>
+      <file name="/LiveActivity.smali" timestamp="1511008228062" />
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/src/payment/com/config/AlipayConfig.java" timestamp="1463029413537">
         <mark key="'" line="24" column="33" />
       </file>
@@ -81,11 +82,7 @@
         <mark key="'" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity$d.smali" timestamp="1510840898886">
-        <mark key="'" line="354" column="72" />
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="^" line="331" column="75" />
-        <mark key="." line="331" column="0" />
+        <mark key="'" line="350" column="72" />
       </file>
       <file name="$USER_HOME$/下载/Project/Project/DOPaymentSystem/WebRoot/return_url.jsp" timestamp="1470371412430">
         <mark key="'" line="90" column="8" />
@@ -316,10 +313,6 @@
       </file>
       <file name="$USER_HOME$/壹粤TV-3.1.7/smali/com/conch/goddess/live/activity/LiveActivity.smali" timestamp="1510845313179">
         <mark key="'" line="7148" column="14" />
-        <mark key="[" line="7158" column="72" />
-        <mark key="]" line="7158" column="73" />
-        <mark key="." line="7158" column="73" />
-        <mark key="^" line="7156" column="24" />
       </file>
       <file name="$USER_HOME$/HDVB-3.1/AndroidManifest.xml" timestamp="1510996596702">
         <mark key="[" line="22" column="79" />
